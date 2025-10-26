@@ -61,12 +61,12 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
+git clone https://github.com/alanpatrickk/apcs-ha-theme.git
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
+git submodule add https://github.com/alanpatrickk/apcs-ha-theme.git
 ```
